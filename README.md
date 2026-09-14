@@ -61,7 +61,8 @@ The project follows a rigorous, clean Object-Oriented Programming (OOP) design p
 
 ### Prerequisites
 *   Python **3.10+**
-*   pip package manager
+*   uv package manager
+   
 
 ### 1. Clone or Download Repository
 Navigate to your target directory containing the project source files.
@@ -75,7 +76,7 @@ pip install pygame
 ### 3. Run the Game
 Execute the main entry point script:
 ```bash
-python main.py
+uv run main.py
 ```
 
 ---
